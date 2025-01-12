@@ -14,6 +14,6 @@
 
 # Accustomed Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,py,powershell,windows,ts,html,css,js,discord,kali,docker,linux,bash,blender,illustrator&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,windows,powershell,ts,html,css,js,discord,kali,docker,linux,bash,blender,illustrator&perline=5)](https://skillicons.dev)
 
 ### And many more...
