@@ -10,8 +10,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ONDER1E&style=flat-square&color=101012)
 
-# Languages and Tools (To name a few):
+# Accustomed Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,,react,cs,cpp,html,css,js,dotnet,docker,linux,py&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,powershell,windows,ts,html,css,js,discord,kali,docker,linux,bash,blender,illustrator&perline=5)](https://skillicons.dev)
 
 ### And many more...
