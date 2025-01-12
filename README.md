@@ -1,4 +1,4 @@
-### Hello, not many people see, this. You were probably referenced here by me so you would aready know who I am,
+### Hello, not many people see, this. You were probably referenced here by me so you would already know who I am,
 ### if not, then you're doing something wrong.
 ### Here are a few things about me:
 
