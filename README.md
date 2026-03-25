@@ -5,7 +5,7 @@ if not, then you're doing something wrong.
 ### Click on one to view its files that contain code I've made.
 ## Here are a few things about me:
 
-- 😎 I Have used countless IT systems (Cloud platforms, a variety of software and machine-managment applications, as of writing this I'm currently administering my homelab consisting of two servers, one running Windows server datacentre 2022 and the other on proxmox for visualisation of many VMs)
+- 😎 I Have used countless IT systems (Cloud platforms, a variety of software and machine-managment applications, as of writing this I'm currently administering my homelab consisting of two servers, one running Windows server datacentre 2022 and the other on proxmox for the visualisation of many VMs)
 - 🤓 I LOVE Maths, Physics, Chemistry (Pretty much everything with numbers)
 - 💬 Ask me about anything
 
