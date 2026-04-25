@@ -5,7 +5,7 @@ if not, then you're doing something wrong.
 ### Click on one to view its files that contain code I've made.
 ## Here are a few things about me:
 
-- 😎 I Have used countless IT systems (Cloud platforms, a variety of software and machine-managment applications, as of writing this I'm currently administering my homelab/lackrack consisting of two servers, one being a custom built running Windows server datacentre 2022 and the other being a modded lenovo P500 on Truenas (Fangtooth), though it will be used primarily as a NAS server, it has lots of ECC registered RAM so I plan for the visualisation of many VMs)
+- 😎 I Have used countless IT systems (Cloud platforms, a variety of software and machine-managment applications, as of writing this I'm currently administering my [homelab](https://github.com/ONDER1E/homelab)/lackrack consisting of two servers, one being a custom built running Windows server datacentre 2022 and the other being a modded lenovo P500 on Truenas, though it will be used primarily as a NAS server, it has lots of ECC registered RAM so I plan for the visualisation of many VMs)
 - 🤓 I LOVE Maths, Physics, Chemistry (Pretty much everything with numbers)
 - 💬 Ask me about anything
 
