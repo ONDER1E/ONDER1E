@@ -9,7 +9,11 @@ if not, then you're doing something wrong.
 - 🤓 I LOVE Maths, Physics, Chemistry (Pretty much everything with numbers)
 - 💬 Ask me about anything
 
+### Notable Work
 
+- **[Homelab](https://github.com/ONDER1E/homelab)** — Detailed production-grade on-prem infrastructure (TrueNAS, 10G networking, Docker services)
+- **[usbpdbs](https://github.com/ONDER1E/usbpdbs)** — Android USB Power Delivery tool (Kotlin, low-level hardware integration)
+- **[BuildBattle](https://github.com/ONDER1E/buildbattle)** — Production-ready Minecraft minigame plugin for Paper 1.20.2 (Java)
 
 ![](https://komarev.com/ghpvc/?username=ONDER1E&style=flat-square&color=101012)
 
